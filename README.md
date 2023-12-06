@@ -1,7 +1,3 @@
-create readme.md
-
-must install docker and node
-
 # Requirements
 - Docker
 - Node
