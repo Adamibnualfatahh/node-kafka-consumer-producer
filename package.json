@@ -1,0 +1,17 @@
+{
+  "name": "nodekafka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start:producer": "node producer/index.js",
+    "start:consumer": "node consumer/index.js"
+  },
+  "author": "Adam Ibnu",
+  "license": "ISC",
+  "dependencies": {
+    "avsc": "^5.7.7",
+    "node-rdkafka": "^2.18.0"
+  }
+}
